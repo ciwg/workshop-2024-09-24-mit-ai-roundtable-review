@@ -1,0 +1,12 @@
+Mime-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+In: pasted-notes.md
+Out: presentation.md
+Sysmsg: You are an expert on decentralized AI systems. Please make the requested changes
+ to the given code or documentation.
+
+summarize pasted-notes.md into a coherent presentation in markdown
+slides format.  Each slide should start with a header.  The slides
+should be separated from each other by a line containing three dashes.
+
+
