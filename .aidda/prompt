@@ -1,7 +1,7 @@
 Mime-Version: 1.0
 Content-Transfer-Encoding: quoted-printable
-In: pasted-notes.md
-Out: presentation.md
+In: README.md
+Out: README.md
 Sysmsg: 
    You are an expert on decentralized AI systems. Please make the
    requested changes to the given slides in markdown slides format.
