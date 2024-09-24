@@ -1,130 +1,173 @@
 File: /home/stevegt/lab/cswg/mit-ai-roundtable/presentation/presentation.md
 ```markdown
-# Welcome to the Decentralized AI Roundtable
+# Roundtable 1: Decentralized AI
 
 ---
 
-# Introduction
+# Publication Details
 
-Welcome to the MIT Decentralized AI Roundtable. Today, we will explore the latest advancements in decentralized AI systems, discussing key concepts and encouraging active participation in this transformative field.
+- **Title:** Decentralized AI Round Table 1: July 29, 2024
+- **Date:** July 29, 2024
+- **Research Area:** Decentralized AI
+- **Group:** Media Lab Research Theme: Decentralized Society
 
 ---
 
 # Abstract
 
-This presentation provides an overview of current thinking around decentralized AI systems. We delve into secret sharing using polynomial curves, double auction markets for computational services, multiparty computation, and zero-knowledge proofs. Our goal is to equip you with the knowledge to engage with and contribute to the future of decentralized AI.
+The first MIT decentralized AI roundtable showcased diverse perspectives from leading experts on decentralized AI systems. Key topics included global orchestration, AI-enhanced personal computing, user-owned AI foundation models, decentralized multi-agent systems, small language models for on-device applications, and peer-to-peer AI protocols. The discussions emphasized privacy, scalability, and efficiency, setting the stage for ongoing research and implementation in decentralized AI systems.
 
 ---
 
-# What is Decentralized AI?
+# Keynote: The GOD AI – Global Orchestration of Decentralized AI
 
-Decentralized AI refers to the distribution of AI computations and data across multiple autonomous agents or nodes, enhancing scalability, privacy, and resilience. Unlike centralized systems, decentralized AI empowers individual participants and leverages collective intelligence.
+**Presenter:** Ramesh Raskar (MIT Media Lab)
 
----
-
-# Secret Sharing Using Polynomial Curves
-
-Secret sharing is a method to distribute a secret among multiple parties, ensuring that only a subset can reconstruct it. Polynomial curves, specifically Shamir's Secret Sharing, use polynomial interpolation to achieve this. Each participant holds a share of the polynomial, and together they can reconstruct the secret, enhancing data security and privacy in decentralized AI systems.
-
----
-
-# Double Auction Markets for Computational Services
-
-Double auction markets facilitate the exchange of computational resources between buyers and sellers. In decentralized AI, this mechanism allows participants to offer computational power or AI services in exchange for compensation. By enabling competitive bidding and dynamic pricing, double auction markets optimize resource allocation and incentivize efficient participation in the AI ecosystem.
+- Introduced a visionary architecture for interconnecting decentralized AI systems.
+- Emphasized maintaining individual autonomy and local data governance.
+- Highlighted technical hurdles and potential solutions for scalable, robust AI networks.
+- Encouraged collaborative efforts to address integration and orchestration challenges.
 
 ---
 
-# Multiparty Computation (MPC)
+# Keynote: Going Forward with AI PCs and NPUs
 
-Multiparty Computation allows multiple parties to jointly compute a function over their inputs while keeping those inputs private. In decentralized AI, MPC enables collaborative model training and data analysis without exposing sensitive information. This enhances privacy and trust among participants, fostering secure and cooperative AI development.
+**Presenter:** Ganesha Rasiah (Chief Strategy Officer, HP)
 
----
-
-# Zero-Knowledge Proofs (ZKP)
-
-Zero-Knowledge Proofs allow one party to prove to another that a statement is true without revealing any additional information. In decentralized AI systems, ZKPs can verify computations and data integrity without exposing underlying data, ensuring both security and privacy. This technology is crucial for maintaining trust and compliance in decentralized environments.
-
----
-
-# Keynote Highlights
-
-### The GOD AI – Global Orchestration of Decentralized AI
-* **Speaker:** Ramesh Raskar
-* **Focus:** Harmonizing decentralized AI efforts globally through robust, scalable networks that enable collaborative problem-solving without central oversight.
-
-### Going Forward with AI PCs and NPUs
-* **Speaker:** Ganesha Rasiah
-* **Focus:** Enhancing personal computing with Neural Processing Units to transform user experiences and computational capabilities in AI-driven devices.
+- Explored the integration of Neural Processing Units (NPUs) in personal computers.
+- Discussed transformation of user experiences and computational capabilities.
+- Addressed challenges in hardware design, software compatibility, and user privacy.
+- Highlighted opportunities for innovations in speed, efficiency, and task-specific functionalities.
 
 ---
 
-# Panel Discussions
+# Discussants
 
-### User-Owned AI Foundation Models
-* **Speaker:** Anna Kazlauskas
-* **Focus:** Democratizing AI by enabling user ownership of foundational models, promoting transparency, trust, and equitable data governance.
+**Steve Derezinski (Web3 Cofoundry) & Medha Parlikar (CTO CasperLabs)**
 
-### Decentralized Orchestration for Multi-Agent Systems
-* **Speaker:** Richard Blythman
-* **Focus:** Enhancing autonomy and efficiency in multi-agent systems through decentralized orchestration, addressing distributed decision-making challenges.
+- Discussed integration of blockchain technologies with decentralized AI.
+- Explored enhancements in security, transparency, and collaboration through decentralized architectures.
+- Highlighted the need for new governance models to support AI and blockchain convergence.
 
 ---
 
-# Technical Innovations
+# Panel: Introduction to the Panelists
 
-### H2O Danube – On-Device & Offline Language Models
-* **Speaker:** Sri Ambati
-* **Focus:** Developing compact, open-weights language models for robust natural language processing in decentralized, resource-constrained environments.
-
-### Peer-to-Peer AI Protocol
-* **Speaker:** Tomisin Jenrola
-* **Focus:** Facilitating direct interactions between distributed AI agents, enhancing data privacy, reducing latency, and improving scalability.
+**Moderator:** Abhishek Singh (MIT PhD Candidate)
 
 ---
 
-# Advanced Topics
+# User-Owned AI Foundation Models
 
-### Secret Sharing using Polynomial Curves
-Understanding the mathematical foundation and practical applications of polynomial-based secret sharing in securing decentralized AI data.
+**Presenter:** Anna Kazlauskas (VANA)
 
-### Double Auction Markets
-Exploring the dynamics of double auction mechanisms in balancing computational service demand and supply within decentralized AI ecosystems.
+- Explored democratizing AI through user ownership of foundational models.
+- Emphasized increased transparency, user trust, and equitable data governance.
+- Detailed decentralized architectures enabling user participation in AI development.
 
-### Multiparty Computation (MPC)
-Delving into MPC protocols that enable secure, collaborative computations across multiple decentralized agents without compromising individual data privacy.
+---
 
-### Zero-Knowledge Proofs (ZKP)
-Examining how ZKPs can validate AI computations and data integrity, ensuring trust and security without revealing sensitive information.
+# Decentralized Orchestration for Multi-Agent Systems
+
+**Presenter:** Richard Blythman (Naptha AI)
+
+- Discussed decentralized coordination of multi-agent AI systems.
+- Highlighted the need for robust frameworks to manage distributed decision-making.
+- Addressed technological challenges and strategies to mitigate risks associated with agent autonomy.
+
+---
+
+# H2O Danube: Open-Weights Small Language Model
+
+**Presenter:** Sri Ambati (VANA, H2O.ai)
+
+- Introduced H2O Danube for on-device and offline applications.
+- Highlighted decentralized architecture enabling robust natural language processing without cloud reliance.
+- Discussed practical deployment and scalability in low-resource environments.
+
+---
+
+# Peer-to-Peer AI Protocol
+
+**Presenter:** Tomisin Jenrola (SwarmZero)
+
+- Proposed a novel peer-to-peer AI protocol for direct interactions between distributed AI agents.
+- Emphasized enhancements in data privacy, reduced latency, scalability, and fault tolerance.
+- Discussed challenges and solutions in creating robust decentralized AI infrastructures.
+
+---
+
+# Panel Discussion
+
+- Engaged in dynamic discussion covering user-owned AI models, decentralized orchestration, and peer-to-peer protocols.
+- Addressed practical applications, challenges, and future potential of decentralized AI technologies.
+- Explored technological advancements and ethical considerations in deploying decentralized AI systems.
+
+---
+
+# Fully Homomorphic Computation (FHE)
+
+**Presenter:** Rand Hindi
+
+- **Definition:** A form of encryption allowing computation on encrypted data without decrypting it.
+- **Applications:** Enables secure data processing in decentralized AI without compromising privacy.
+- **Benefits:** Preserves data confidentiality, supports complex computations on sensitive information.
+
+---
+
+# Comparison of FHE vs Multi-Party Computation (MPC)
+
+**Key Points:**
+
+- **FHE:**
+  - Allows arbitrary computations on encrypted data.
+  - Single-party focus; computations done on ciphertexts by a single entity.
+  - Higher computational overhead compared to MPC.
+
+- **MPC:**
+  - Involves multiple parties jointly computing a function over their inputs while keeping those inputs private.
+  - Suitable for scenarios requiring collaboration without trust.
+  - Generally more efficient for specific types of computations compared to FHE.
+
+**Reference:** [MPC vs FHE](https://medium.com/partisia-blockchain/mpc-fhe-dp-zkp-tee-and-where-partisia-blockchain-fits-in-c8e051d053f7)
+
+---
+
+# Homomorphic Encryption
+
+- **Description:** Encryption method allowing computations on ciphertexts, yielding encrypted results that, when decrypted, match the results of operations performed on plaintexts.
+- **Use Cases:** Secure data analytics, privacy-preserving machine learning, secure voting systems.
+- **Resources:**
+  - [Wikipedia: Homomorphic Encryption](https://en.wikipedia.org/wiki/Homomorphic_encryption)
+  - [Zama - Fully Homomorphic Encryption](https://www.zama.ai/)
+
+---
+
+# What Next? Expand Your Interest in Decentralized AI
+
+- **Engage with the Community:**
+  - Join the [WhatsApp Group](https://chat.whatsapp.com/D44VCUdQ1KQ3OLL1w3xTiZ)
+- **Explore Further Resources:**
+  - [Decai Perspective](https://www.media.mit.edu/publications/decai-perspective/)
+  - [YouTube Video](https://www.youtube.com/watch?v=SSSffQsbFo4&ab_channel=RameshRaskar)
+  - [AgentTorch GitHub](https://github.com/AgentTorch/AgentTorch)
+  - [AgentTorch Website](https://agenttorch.github.io/AgentTorch/)
 
 ---
 
 # Future Directions
 
-* **Scalability:** Enhancing the scalability of decentralized AI systems through efficient resource allocation and orchestration.
-* **Privacy:** Strengthening data privacy mechanisms to protect user data while enabling collaborative AI advancements.
-* **Interoperability:** Promoting interoperability across diverse AI agents and platforms to foster a cohesive decentralized AI network.
-* **Incentivization:** Developing robust incentive structures to encourage participation and sustained engagement in decentralized AI initiatives.
+- **Integration of FHE in Decentralized AI:**
+  - Potential for enhanced privacy and security in AI computations.
+  - Combining FHE with decentralized protocols for robust AI systems.
+
+- **Advancements in MPC:**
+  - Improving efficiency for collaborative AI computations.
+  - Expanding applications in multi-party decentralized environments.
+
+- **Collaborative Research and Development:**
+  - Encouraging interdisciplinary collaborations to tackle decentralized AI challenges.
+  - Fostering innovation through community-driven projects and open-source initiatives.
 
 ---
-
-# Get Involved
-
-Join our community to contribute to the future of decentralized AI:
-* **WhatsApp Group:** [https://chat.whatsapp.com/D44VCUdQ1KQ3OLL1w3xTiZ](https://chat.whatsapp.com/D44VCUdQ1KQ3OLL1w3xTiZ)
-* **GitHub:** [AgentTorch](https://github.com/AgentTorch/AgentTorch)
-* **Learn More:** [MIT DecAI Perspective](https://www.media.mit.edu/publications/decai-perspective/)
-
----
-
-# Q&A
-
-Engage with our panel of experts to discuss your questions and insights on decentralized AI systems. Your participation is crucial in shaping the future of this dynamic field.
-
----
-
-# Thank You!
-
-Thank you for attending the MIT Decentralized AI Roundtable. We look forward to your active participation and contributions to advancing decentralized AI technologies.
-
-```
 EOF_/home/stevegt/lab/cswg/mit-ai-roundtable/presentation/presentation.md
