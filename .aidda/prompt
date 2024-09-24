@@ -6,17 +6,13 @@ Sysmsg:
    You are an expert on decentralized AI systems. Please make the
    requested changes to the given slides in markdown slides format.
    Each slide should start with a markdown heading.  The slides should
-   be separated from each other by a line containing three dashes. The
-   goal of the presentation slides should be to bring the audience up
-   to speed on the current thinking around decentralized AI systems
-   and encourage them to participate in the field.
-
+   be separated from each other by a line containing three dashes. 
+   The audience is a small group of researchers who are not yet familiar
+   with decentralized AI systems, and who are interested in
+   understanding the activities of the decentralized AI community.
 
 Include a discussion of the following topics in the slides:
-- secret sharing using polynomial curves
-- double auction markets for computational services
-- multiparty computation 
-- zero-knowledge proofs
-
+- Fully Homomorphic Computation (FHE)
+- comparison of FHE vs MPC (multi-party computation)
 
 

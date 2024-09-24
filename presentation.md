@@ -2,15 +2,14 @@
 
 ---
 
-## Introduction
+# Introduction
 
-- Overview of Decentralized AI Roundtables
-- Encourage participation and understanding in the field of decentralized AI systems
 
 ---
 
-## Key Topics from Roundtable 1
+## Key Topics 
 
+## Roundtable 1:
 - Global Orchestration of Decentralized AI Systems
 - AI-enhanced Personal Computing
 - User-Owned AI Foundation Models
@@ -18,98 +17,102 @@
 - Small Language Models for On-device Applications
 - Peer-to-Peer AI Protocols
 
----
-
-## The GOD AI: Global Orchestration of Decentralized AI
-
-- Speaker: Ramesh Raskar
-- Vision for harmonizing decentralized AI globally
-- Interconnecting decentralized AI systems while maintaining autonomy
-- Technical challenges and collaborative opportunities
-
----
-
-## AI PCs and NPUs
-
-- Speaker: Ganesha Rasiah
-- Evolution of personal computing with AI
-- Integration of Neural Processing Units (NPUs)
-- Challenges and future implications in hardware design and user privacy
-
----
-
-## Blockchain Integration with Decentralized AI
-
-- Discussants: Steve Derezinski and Medha Parlikar
-- Enhancing security, transparency, and collaboration using blockchain
-- New governance models for AI and blockchain convergence
-
----
-
-## User-Owned AI Foundation Models
-
-- Speaker: Anna Kazlauskas
-- Democratizing AI through user ownership
-- Increased transparency, user trust, and equitable data governance
-- Personalized and ethical AI solutions
-
----
-
-## Decentralized Orchestration for Multi-Agent Systems
-
-- Speaker: Richard Blythman
-- Enhancing autonomy and efficiency in multi-agent systems
-- Robust frameworks for distributed decision-making
-- Collaboration among AI agents for goal-directed behavior
-
----
-
-## H2O Danube: Small Language Model for On-device Applications
-
-- Speaker: Sri Ambati
-- Open-weights small language model for offline use
-- Enhancing language model accessibility and functionality in constrained environments
-- Privacy and efficiency without cloud reliance
-
----
-
-## Peer-to-Peer AI Protocol
-
-- Speaker: Tomisin Jenrola
-- Direct interactions between distributed AI agents
-- Enhancing data privacy and reducing latency
-- Scalability and fault tolerance in peer-to-peer AI networks
-
----
-
-## Panel Discussion and Q&A
-
-- Diverse insights from Anna Kazlauskas, Richard Blythman, Sri Ambati, and Tomisin Jenrola
-- Practical applications and future potential of decentralized AI
-- Interactive format for exploring operational intricacies and strategic implications
-
----
-
-## What Next?
-
-- Expanding interest and engagement in Decentralized AI
-- Joining community discussions and groups
-
----
-
-## Key Highlights from Roundtable 3
-
+## Roundtable 3:
 - Multi-Agent with millions of agents and digital twinning real-world agents (Abhishek Singh)
 - Computing on encrypted data using Homomorphic Encryption (Antigoni Polychroniadou)
 - Infrastructure and market-making in decentralized systems (Levi Rybalov)
 - Challenges in orchestration and incentivizing nodes (Varun Mathur)
 - Reputation systems and trust in decentralized AI (Abhishek Singh)
 
+
 ---
 
-## Conclusion
+# What is Decentralized AI?
 
-- Encouraging continued research and implementation in decentralized AI
-- Collaboration and innovation opportunities in various domains
-- Future outlook on decentralized AI technologies
+Decentralized AI refers to the distribution of AI computations and data across multiple autonomous agents or nodes, enhancing scalability, privacy, and resilience. Unlike centralized systems, decentralized AI empowers individual participants and leverages collective intelligence.
+
+---
+
+# Secret Sharing Using Polynomial Curves
+
+Secret sharing is a method to distribute a secret among multiple parties, ensuring that only a subset can reconstruct it. Polynomial curves, specifically Shamir's Secret Sharing, use polynomial interpolation to achieve this. Each participant holds a share of the polynomial, and together they can reconstruct the secret, enhancing data security and privacy in decentralized AI systems.
+
+---
+
+# Double Auction Markets for Computational Services
+
+Double auction markets facilitate the exchange of computational resources between buyers and sellers. In decentralized AI, this mechanism allows participants to offer computational power or AI services in exchange for compensation. By enabling competitive bidding and dynamic pricing, double auction markets optimize resource allocation and incentivize efficient participation in the AI ecosystem.
+
+---
+
+# Multiparty Computation (MPC)
+
+Multiparty Computation allows multiple parties to jointly compute a function over their inputs while keeping those inputs private. In decentralized AI, MPC enables collaborative model training and data analysis without exposing sensitive information. This enhances privacy and trust among participants, fostering secure and cooperative AI development.
+
+---
+
+# Zero-Knowledge Proofs (ZKP)
+
+Zero-Knowledge Proofs allow one party to prove to another that a statement is true without revealing any additional information. In decentralized AI systems, ZKPs can verify computations and data integrity without exposing underlying data, ensuring both security and privacy. This technology is crucial for maintaining trust and compliance in decentralized environments.
+
+---
+
+# Keynote Highlights
+
+### The GOD AI – Global Orchestration of Decentralized AI
+* **Speaker:** Ramesh Raskar
+* **Focus:** Harmonizing decentralized AI efforts globally through robust, scalable networks that enable collaborative problem-solving without central oversight.
+
+### Going Forward with AI PCs and NPUs
+* **Speaker:** Ganesha Rasiah
+* **Focus:** Enhancing personal computing with Neural Processing Units to transform user experiences and computational capabilities in AI-driven devices.
+
+---
+
+# Panel Discussions
+
+### User-Owned AI Foundation Models
+* **Speaker:** Anna Kazlauskas
+* **Focus:** Democratizing AI by enabling user ownership of foundational models, promoting transparency, trust, and equitable data governance.
+
+### Decentralized Orchestration for Multi-Agent Systems
+* **Speaker:** Richard Blythman
+* **Focus:** Enhancing autonomy and efficiency in multi-agent systems through decentralized orchestration, addressing distributed decision-making challenges.
+
+---
+
+# Technical Innovations
+
+### H2O Danube – On-Device & Offline Language Models
+* **Speaker:** Sri Ambati
+* **Focus:** Developing compact, open-weights language models for robust natural language processing in decentralized, resource-constrained environments.
+
+### Peer-to-Peer AI Protocol
+* **Speaker:** Tomisin Jenrola
+* **Focus:** Facilitating direct interactions between distributed AI agents, enhancing data privacy, reducing latency, and improving scalability.
+
+---
+
+# Advanced Topics
+
+### Secret Sharing using Polynomial Curves
+Understanding the mathematical foundation and practical applications of polynomial-based secret sharing in securing decentralized AI data.
+
+### Double Auction Markets
+Exploring the dynamics of double auction mechanisms in balancing computational service demand and supply within decentralized AI ecosystems.
+
+### Multiparty Computation (MPC)
+Delving into MPC protocols that enable secure, collaborative computations across multiple decentralized agents without compromising individual data privacy.
+
+### Zero-Knowledge Proofs (ZKP)
+Examining how ZKPs can validate AI computations and data integrity, ensuring trust and security without revealing sensitive information.
+
+---
+
+# Future Directions
+
+* **Scalability:** Enhancing the scalability of decentralized AI systems through efficient resource allocation and orchestration.
+* **Privacy:** Strengthening data privacy mechanisms to protect user data while enabling collaborative AI advancements.
+* **Interoperability:** Promoting interoperability across diverse AI agents and platforms to foster a cohesive decentralized AI network.
+* **Incentivization:** Developing robust incentive structures to encourage participation and sustained engagement in decentralized AI initiatives.
 
