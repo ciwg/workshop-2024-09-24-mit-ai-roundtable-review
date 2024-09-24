@@ -1,12 +1,5 @@
 # Decentralized AI Roundtable Overview
 
----
-
-# Introduction
-
-
----
-
 ## Key Topics 
 
 ## Roundtable 1:
@@ -24,12 +17,14 @@
 - Challenges in orchestration and incentivizing nodes (Varun Mathur)
 - Reputation systems and trust in decentralized AI (Abhishek Singh)
 
-
 ---
 
 # What is Decentralized AI?
 
 Decentralized AI refers to the distribution of AI computations and data across multiple autonomous agents or nodes, enhancing scalability, privacy, and resilience. Unlike centralized systems, decentralized AI empowers individual participants and leverages collective intelligence.
+
+## Intro video from Roundtable 3:
+https://www.youtube.com/watch?v=SSSffQsbFo4&ab_channel=RameshRaskar
 
 ---
 
@@ -48,6 +43,24 @@ Double auction markets facilitate the exchange of computational resources betwee
 # Multiparty Computation (MPC)
 
 Multiparty Computation allows multiple parties to jointly compute a function over their inputs while keeping those inputs private. In decentralized AI, MPC enables collaborative model training and data analysis without exposing sensitive information. This enhances privacy and trust among participants, fostering secure and cooperative AI development.
+
+---
+
+# Fully Homomorphic Computation (FHE)
+
+Fully Homomorphic Computation allows computations to be performed directly on encrypted data without the need for decryption. In decentralized AI systems, FHE enables secure data processing and analysis while preserving data privacy. This ensures that sensitive information remains confidential even during computation, enhancing trust and security in collaborative AI endeavors.
+
+---
+
+# FHE vs MPC
+
+| Feature                | Fully Homomorphic Computation (FHE) | Multi-Party Computation (MPC)      |
+|------------------------|-------------------------------------|------------------------------------|
+| **Privacy Model**      | Computes on encrypted data          | Computes on plaintext data with distributed inputs |
+| **Communication Needs**| Minimal communication between parties | Higher communication overhead due to data sharing |
+| **Computational Efficiency** | Generally more computationally intensive | Typically more efficient for certain computations |
+| **Use Cases**          | Secure data processing, privacy-preserving AI model training | Collaborative model training, secure data analysis without revealing individual inputs |
+| **Security Assumptions** | Relies on strong encryption schemes | Relies on protocol security and honest/malicious participant models |
 
 ---
 
@@ -104,6 +117,12 @@ Exploring the dynamics of double auction mechanisms in balancing computational s
 ### Multiparty Computation (MPC)
 Delving into MPC protocols that enable secure, collaborative computations across multiple decentralized agents without compromising individual data privacy.
 
+### Fully Homomorphic Computation (FHE)
+Exploring how FHE allows computations on encrypted data, providing strong privacy guarantees and enabling secure data processing in decentralized AI.
+
+### FHE vs MPC
+A comparative analysis of Fully Homomorphic Computation and Multiparty Computation, highlighting their respective strengths, use cases, and trade-offs in decentralized AI systems.
+
 ### Zero-Knowledge Proofs (ZKP)
 Examining how ZKPs can validate AI computations and data integrity, ensuring trust and security without revealing sensitive information.
 
@@ -115,4 +134,3 @@ Examining how ZKPs can validate AI computations and data integrity, ensuring tru
 * **Privacy:** Strengthening data privacy mechanisms to protect user data while enabling collaborative AI advancements.
 * **Interoperability:** Promoting interoperability across diverse AI agents and platforms to foster a cohesive decentralized AI network.
 * **Incentivization:** Developing robust incentive structures to encourage participation and sustained engagement in decentralized AI initiatives.
-
