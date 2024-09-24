@@ -32,6 +32,10 @@ https://www.youtube.com/watch?v=SSSffQsbFo4&ab_channel=RameshRaskar
 
 Secret sharing is a method to distribute a secret among multiple parties, ensuring that only a subset can reconstruct it. Polynomial curves, specifically Shamir's Secret Sharing, use polynomial interpolation to achieve this. Each participant holds a share of the polynomial, and together they can reconstruct the secret, enhancing data security and privacy in decentralized AI systems.
 
+Lots of videos on this topic on YouTube.  Here's one:
+
+https://www.youtube.com/watch?v=_mDlLKgiFDY&t=20s&ab_channel=CryptoClear
+
 ---
 
 # Double Auction Markets for Computational Services
