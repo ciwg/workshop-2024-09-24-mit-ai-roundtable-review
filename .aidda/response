@@ -1,12 +1,8 @@
-File: /home/stevegt/lab/cswg/workshop-2024-09-24-mit-ai-roundtable-review/README.md
 ```
+
+File: /home/stevegt/lab/cswg/workshop-2024-09-24-mit-ai-roundtable-review/README.md
+```markdown
 # Decentralized AI Roundtable Overview
-
----
-
-# Introduction
-
----
 
 ## Key Topics 
 
@@ -31,11 +27,18 @@ File: /home/stevegt/lab/cswg/workshop-2024-09-24-mit-ai-roundtable-review/README
 
 Decentralized AI refers to the distribution of AI computations and data across multiple autonomous agents or nodes, enhancing scalability, privacy, and resilience. Unlike centralized systems, decentralized AI empowers individual participants and leverages collective intelligence.
 
+## Intro video from Roundtable 3:
+https://www.youtube.com/watch?v=SSSffQsbFo4&ab_channel=RameshRaskar
+
 ---
 
 # Secret Sharing Using Polynomial Curves
 
 Secret sharing is a method to distribute a secret among multiple parties, ensuring that only a subset can reconstruct it. Polynomial curves, specifically Shamir's Secret Sharing, use polynomial interpolation to achieve this. Each participant holds a share of the polynomial, and together they can reconstruct the secret, enhancing data security and privacy in decentralized AI systems.
+
+Lots of videos on this topic on YouTube.  Here's one:
+
+https://www.youtube.com/watch?v=_mDlLKgiFDY&t=20s&ab_channel=CryptoClear
 
 ---
 
@@ -130,6 +133,9 @@ A comparative analysis of Fully Homomorphic Computation and Multiparty Computati
 
 ### Zero-Knowledge Proofs (ZKP)
 Examining how ZKPs can validate AI computations and data integrity, ensuring trust and security without revealing sensitive information.
+
+### Promise Theory and Semantic Spacetime in Decentralized AI
+Exploring how Mark Burgess' Promise Theory provides a framework for understanding agent interactions and commitments within decentralized AI systems. Semantic spacetime offers a conceptual model for organizing information and processes in a way that aligns with the distributed nature of decentralized architectures. This intersection enhances the coordination, reliability, and scalability of decentralized AI by leveraging principles of autonomous promise-keeping and meaningful data structuring.
 
 ---
 

@@ -130,6 +130,9 @@ A comparative analysis of Fully Homomorphic Computation and Multiparty Computati
 ### Zero-Knowledge Proofs (ZKP)
 Examining how ZKPs can validate AI computations and data integrity, ensuring trust and security without revealing sensitive information.
 
+### Promise Theory and Semantic Spacetime in Decentralized AI
+Exploring how Mark Burgess' Promise Theory provides a framework for understanding agent interactions and commitments within decentralized AI systems. Semantic spacetime offers a conceptual model for organizing information and processes in a way that aligns with the distributed nature of decentralized architectures. This intersection enhances the coordination, reliability, and scalability of decentralized AI by leveraging principles of autonomous promise-keeping and meaningful data structuring.
+
 ---
 
 # Future Directions
